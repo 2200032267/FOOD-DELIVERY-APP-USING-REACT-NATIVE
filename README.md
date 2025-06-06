@@ -1,62 +1,54 @@
-# Welcome to your Expo app 👋
+# 🍽️ Foodie - Delicious Delivered
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+[🔗 Live Deployment (Expo)](https://minifoodorderapp--w3s7kz0vfr.expo.app)  
+[🔗 LinkedIn Article](https://www.linkedin.com/in/yourprofile/detail/recent-activity/posts/)
 
-## Get started
+---
 
-1. Install dependencies
+## 🧠 Project Overview
 
-   ```bash
-   npm install
-   ```
+This project showcases a dynamic and visually appealing mobile landing screen for a food delivery app. It uses React Native's Animated API for smooth entrance and continuous animations, creating a warm and interactive introduction to the app.
 
-2. Start the app
+The screen includes animated food emoji, pulsing Call-To-Action buttons, and colorful gradient backgrounds to enhance user engagement and encourage exploration.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## ✨ Key Features
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- ✅ Animated UI effects including fade, slide, scale, rotate, float, and pulse  
+- ✅ Linear gradient backgrounds for a modern, warm look  
+- ✅ Responsive and scrollable layout optimized for mobile devices  
+- ✅ Smooth navigation implemented with Expo Router  
+- ✅ Interactive Call-To-Action button with pulsing animation  
+- ✅ Decorative elements and icons to enhance visual appeal  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📦 Technology Stack
 
-When you're ready, run:
+- React Native  
+- Expo & Expo Router  
+- TypeScript  
+- React Native Animated API  
+- Expo LinearGradient  
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 📱 Visuals & Animation Highlights
 
-## Learn more
+- 🍽️ Rotating and floating food emoji animation  
+- 🎨 Multi-step entrance animation sequence (fade-in, slide-up, scale)  
+- 🚀 Pulsing "Explore Menu" button with gradient effect  
+- 🌈 Gradient background transitioning from orange to yellow hues  
+- 🎯 Features list with emojis to emphasize app benefits  
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 👤 Author
 
-## Join the community
+**N VIGHNESH**  
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: vighneshnv2@gmail.com  
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
-
-const categories: Category[] = [
-  { id: '1', name: 'Pizza', emoji: '🍕', color: '#ff6b6b' },
-  { id: '2', name: 'Burgers', emoji: '🍔', color: '#4ecdc4' },
-  { id: '3', name: 'Salads', emoji: '🥗', color: '#45b7d1' },
-  { id: '4', name: 'Desserts', emoji: '🍰', color: '#f9ca24' },
-  { id: '5', name: 'Asian', emoji: '🍱', color: '#f0932b' },
-  { id: '6', name: 'Beverages', emoji: '☕', color: '#eb4d4b' },
-  { id: '7', name: 'Snacks', emoji: '🍿', color: '#6c5ce7' },
-  { id: '8', name: 'Indian', emoji: '🍛', color: '#a29bfe' },
-];
+Made with ❤️ using React Native & Expo
