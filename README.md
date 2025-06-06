@@ -1,9 +1,16 @@
 # 🍽️ Foodie - Delicious Delivered
 
-[🔗 Live Deployment (Expo)](https://minifoodorderapp--w3s7kz0vfr.expo.app)  
-[🔗 LinkedIn Article](https://www.linkedin.com/in/yourprofile/detail/recent-activity/posts/)
+---
+
+## 🔗 Project Links
+
+- 🔗 **Live Site (Render Deployment):** [https://minifoodorderapp--w3s7kz0vfr.expo.app/menu]
+- 📰 **LinkedIn Article:** []
+- 📹 **Video Demo:** [https://drive.google.com/file/d/1fkyxj2lCfAm4okD-uIi5u63ETUVnHR0w/view?usp=sharing]
 
 ---
+
+
 
 ## 🧠 Project Overview
 
