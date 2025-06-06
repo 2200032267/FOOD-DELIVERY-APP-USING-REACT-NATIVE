@@ -1,0 +1,109 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+#to run project- npx expo start
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+app-example
+
+
+.runtimeconfig.json
+
+#to run -npx expo start
+
+
+#to deploy
+#  npx expo install eas-cli
+# npx eas build:configure
+
+# npm install -g eas-cli
+# eas login
+# eas update:configure
+
+#to deploy to preview
+# npx eas update --branch preview
+
+# eas build -p android --profile preview
+# npx expo publish
+
+# Node modules
+node_modules/
+
+# Expo & Metro bundler
+.expo/
+.expo-shared/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+web-build/
+*.log
+
+# Firebase
+.firebase/
+.firebaserc
+firebase-debug.log
+firebase-debug.*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# System files
+.idea/
+.env
+.env.* 
+
+# Mac ZIP metadata
+__MACOSX/
+
+
+firebaseConfig.ts
+
+# Expo Go cache & other
+*.expo
+*.tgs
+*.tmp
+*.bak
+.expoSettings/
+
