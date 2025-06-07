@@ -4,13 +4,11 @@
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [https://minifoodorderapp--w3s7kz0vfr.expo.app/menu]
-- 📰 **LinkedIn Article:** []
-- 📹 **Video Demo:** []
+- 🔗 **Live Site (Render Deployment):** [Click Here]()
+- 📰 **LinkedIn Article:** [Click Here]()
+- 📹 **Video Demo:** [Click Here]()
 
 ---
-
-
 
 ## 🧠 Project Overview
 
@@ -51,11 +49,23 @@ The screen includes animated food emoji, pulsing Call-To-Action buttons, and col
 
 ---
 
+## 📸 Screenshots
+
+**Final Outputs**
+[Click Here](Final_Outputs/)
+
+---
+
 ## 👤 Author
 
-**N VIGHNESH**  
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Email: vighneshnv2@gmail.com  
+**NEDULLA VIGHNESH**  
+- GitHub: [2200032267](https://github.com/2200032267)  
+- LinkedIn: [N VIGHNESH](https://www.linkedin.com/in/n-vighnesh-5b74aa24a)  
+- Email:vighneshnv2@gmail.com
+---
+## ⭐ Star This Repository
 
-Made with ❤️ using React Native & Expo
+If you find this project useful or interesting, please ⭐ star this repository to support and encourage further development!  
+Your support means a lot! 🙏
+
+---
