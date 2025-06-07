@@ -4,9 +4,9 @@
 
 ## 🔗 Project Links
 
-- 🔗 **Live Site (Render Deployment):** [Click Here]()
-- 📰 **LinkedIn Article:** [Click Here]()
-- 📹 **Video Demo:** [Click Here]()
+- 🔗 **Live Site (Render Deployment):** [Click Here](https://minifoodorderapp--w3s7kz0vfr.expo.app)
+- 📰 **LinkedIn Article:** [Click Here](https://www.linkedin.com/in/n-vighnesh-5b74aa24a/recent-activity/articles/)
+- 📹 **Video Demo:** [Click Here](https://drive.google.com/file/d/1w4Mdi-SypOmqmSw0vmlbNygH3O9y7MbQ/view?usp=sharing)
 
 ---
 
